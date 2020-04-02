@@ -1,0 +1,19 @@
+body {
+  position: relative;
+  min-height: 100vh;
+}
+
+.dropdown-item:hover {
+  background: none;
+}
+
+.profile {
+  background: #000;
+  color: #fff;
+}
+
+#main-footer {
+  position: absolute;
+  bottom: 0 !important;
+  width: 100%;
+}
